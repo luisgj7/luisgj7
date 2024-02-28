@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
-<h3 align="center">Javascript Developer from Peru</h3>
+<h3 align="center">Software Engineer from Peru</h3>
 
 - 🔭 I’m currently working on **Angular & React projects.**
 
-- 🌱 I’m currently learning **Svelte**
+- 🌱 I’m currently learning **Astro**
 
 - 💬 Ask me about **Angular, Vue and React**
 
