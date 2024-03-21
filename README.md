@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Astro**
 
-- 💬 Ask me about **Angular, Vue and React**
+- 💬 Ask me about **Node, Angular, Vue and React**
 
 - 📫 How to reach me **via LinkedIn**
 
